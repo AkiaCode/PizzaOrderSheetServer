@@ -1,0 +1,6 @@
+# github.com/go-netty/go-netty v0.0.0-20220104093642-a83877336e91
+## explicit; go 1.13
+github.com/go-netty/go-netty
+github.com/go-netty/go-netty/transport
+github.com/go-netty/go-netty/transport/tcp
+github.com/go-netty/go-netty/utils
